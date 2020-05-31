@@ -1,0 +1,27 @@
+Testiympäristö:
+================
+
+http://localhost/point-products.php
+
+http://localhost/point-product.php?id=1
+
+http://localhost/point-upd-message.php
+
+
+Tuotanto:
+==========
+
+Muista siirtää tuotantoon: point_dbcon_prod.php
+
+
+
+XAMP
+=====
+
+
+DocumentRoot "C:/xampp/htdocs/php-react"
+<Directory "C:/xampp/htdocs/php-react">
+
+
+
+
